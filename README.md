@@ -1,2 +1,2 @@
 # Super-Trunfo
-Projeto Super Trunfo - nível novato 
+Projeto do jogo Super Trunfo comparando duas cartas. 
